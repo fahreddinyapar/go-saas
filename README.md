@@ -1,4 +1,4 @@
-# This project is under development
+# This project is under development2
 
 <div align="center">
 <p><a href="https://github.com/go-saas/kit" target="_blank"><img src="https://github.com/go-saas/kit/blob/main/docs/static/img/logo.png?raw=true" width="100"></a></p>
